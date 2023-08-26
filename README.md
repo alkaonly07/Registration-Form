@@ -1,2 +1,2 @@
-# RegistrationForm
-Registration form with valifation using React JS
+# Registration Form
+Registration form with validation using React JS
